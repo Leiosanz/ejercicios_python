@@ -31,7 +31,7 @@ Total=0
 Total1=1
 
 print(Total)
-ptint(Total1)
+print(Total1)
 for x in range (8):
 	Total2=Total+Total1
 	print(Total2)
